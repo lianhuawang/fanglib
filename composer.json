@@ -1,0 +1,19 @@
+{
+    "name": "fang/post",
+    "description": "post service",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wangjun10",
+            "email": "wangjun10@58ganji.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Post\\": "src/"
+        }
+    }
+}
