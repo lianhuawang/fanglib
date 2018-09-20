@@ -7,5 +7,7 @@
  */
 
 class Boost {
-    
+        public static function __construct(){
+
+        }
 } 
